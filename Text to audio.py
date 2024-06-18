@@ -8,4 +8,4 @@ def convertVoz(texto):
     
     
 convertVoz("Oi meu nome é pedro")
-convertVoz("Teste grupo lima")
+convertVoz("Teste sei la")
